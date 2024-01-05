@@ -9,5 +9,5 @@ This repository contains the coursework for NTHU's CS550000 Computer Graphics co
     * Key tasks include working with five models, controlling camera viewpoints, implementing MVP matrices, and toggling between different visual modes.
 * Assignment 2: 
     * Implement three types of light sources—directional, point, and spotlight—and enable their real-time interactive modification.
-
-* ...
+* Assignment 3: 
+    * Focus on texture mapping, including binding textures to shaders, modifying texture filtering and wrapping modes, and implementing these in the main.cpp, vertex shader, and fragment shader.
