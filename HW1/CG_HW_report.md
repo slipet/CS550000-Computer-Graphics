@@ -13,7 +13,7 @@
 <img src="pic/image-4.png" alt="drawing" width="200" height="150"/> <img src="pic/image-5.png" alt="drawing" width="200" height="150"/>
 
 - **Key Function 'T'**: Translate model based on mouse input. 
-<img src="pic/image-6.png" alt="drawing" width="200" height="150"/>
+    <img src="pic/image-6.png" alt="drawing" width="200" height="150"/>
 
 - **Key Function 'S'**: Scale model using mouse input.
 <img src="pic/image-7.png" alt="drawing" width="200" height="150"/>
