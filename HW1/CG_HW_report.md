@@ -1,7 +1,7 @@
 ## CG HW1 Report
 
 - **Key Function 'W'**: Toggle between solid and wireframe modes using `glPolygonMode`. \
-<img src="pic/image.png" alt="drawing" width="200" height="150"/>
+<img style="float: mid" src="pic/image.png" alt="drawing" width="200" height="150"/>
 <img src="pic/image-1.png" alt="drawing" width="200" height="150"/>
 
 - **Key Function 'Z/X'**: Switch between models, storing and altering model information without affecting other models. \
