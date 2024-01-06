@@ -15,19 +15,19 @@
 - **Key Function 'T'**: Translate model based on mouse input. \
     <img src="pic/image-6.png" alt="drawing" width="200" height="150"/>
 
-- **Key Function 'S'**: Scale model using mouse input.
-<img src="pic/image-7.png" alt="drawing" width="200" height="150"/>
+- **Key Function 'S'**: Scale model using mouse input. \
+    <img src="pic/image-7.png" alt="drawing" width="200" height="150"/>
 
-- **Key Function 'R'**: Rotate model based on mouse movement. 
-<img src="pic/image-8.png" alt="drawing" width="200" height="150"/>
+- **Key Function 'R'**: Rotate model based on mouse movement. \
+    <img src="pic/image-8.png" alt="drawing" width="200" height="150"/>
 
-- **Key Function 'E'**: Translate eye position, altering the model's view as if from the human eye.
-<img src="pic/image-9.png" alt="drawing" width="200" height="150"/>
+- **Key Function 'E'**: Translate eye position, altering the model's view as if from the human eye. \
+    <img src="pic/image-9.png" alt="drawing" width="200" height="150"/>
 
-- **Key Function 'C'**: Change the viewing center position.
-<img src="pic/image-10.png" alt="drawing" width="200" height="150"/>
+- **Key Function 'C'**: Change the viewing center position. \
+    <img src="pic/image-10.png" alt="drawing" width="200" height="150"/>
 
-- **Key Function 'U'**: Alter the camera's up vector position. 
-<img src="pic/image-11.png" alt="drawing" width="200" height="150"/>
+- **Key Function 'U'**: Alter the camera's up vector position. \
+    <img src="pic/image-11.png" alt="drawing" width="200" height="150"/>
 
 - **Key Function 'I'**: Print out information such as Translation Matrix, Rotation Matrix, Scaling Matrix, Viewing Matrix, Projection Matrix.
