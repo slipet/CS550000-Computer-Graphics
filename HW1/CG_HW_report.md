@@ -21,7 +21,7 @@
 - **Key Function 'R'**: Rotate model based on mouse movement. \
 <img src="pic/image-8.png" alt="drawing" width="200" height="150"/>
 
-- **Key Function 'E'**: Translate eye position, altering the model's view as if from the human eye. \
+- **Key Function 'E'**: Translate eye position, altering the model's view as if from the human eye.
 <img src="pic/image-9.png" alt="drawing" width="200" height="150"/>
 
 - **Key Function 'C'**: Change the viewing center position. \
