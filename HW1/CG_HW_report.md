@@ -5,14 +5,12 @@
 
 
 - **Key Function 'Z/X'**: Switch between models, storing and altering model information without affecting other models. \
-<img src="pic/image-2.png" alt="drawing" width="200" height="150"/>
-<img src="pic/image-3.png" alt="drawing" width="200" height="150"/>
+<img src="pic/image-2.png" alt="drawing" width="200" height="150"/> <img src="pic/image-3.png" alt="drawing" width="200" height="150"/>
 
 
 - **Key Function 'O'**: Change to Orthogonal projection using the `setOrthogonal` function.
 - **Key Function 'P'**: Switch to NDC Perspective projection with the `setPerspective` function. \
-<img src="pic/image-4.png" alt="drawing" width="200" height="150"/>
-<img src="pic/image-5.png" alt="drawing" width="200" height="150"/>
+<img src="pic/image-4.png" alt="drawing" width="200" height="150"/> <img src="pic/image-5.png" alt="drawing" width="200" height="150"/>
 
 - **Key Function 'T'**: Translate model based on mouse input. \
 <img src="pic/image-6.png" alt="drawing" width="200" height="150"/>
